@@ -1,0 +1,7 @@
+{
+  "name": "harmony",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
